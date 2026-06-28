@@ -20,9 +20,6 @@ Investigate Windows authentication events and identify suspicious login activity
 
 Multiple failed login attempts were observed before a successful login.
 
-## Report
-Report/Incident report-Windows Authentication Log Analysis.pdf
-
 The activity was analyzed to determine whether it represented normal user behavior or a potential brute-force attack.
 
 ## Skills Demonstrated
@@ -31,3 +28,6 @@ The activity was analyzed to determine whether it represented normal user behavi
 - Threat Detection
 - Incident Investigation
 - Security Monitoring
+
+## Report
+Report/Incident report-Windows Authentication Log Analysis.pdf
